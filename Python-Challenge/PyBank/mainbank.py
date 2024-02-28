@@ -72,7 +72,6 @@ analysis = (
      "\n"
      f"Total Months: {months_count}\n" 
      f"Total: ${total_profit}\n"
-     f"Total Change: {total_change}\n"
      f"Average Change: {average_change}\n"
      f"Greatest Increase in Profits: {max_profit_month} (${max_profit_val[1]})\n"
      f"Greatest Loss in Profits: {max_loss_month} (${max_loss_val[1]})\n"
